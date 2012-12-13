@@ -13,3 +13,5 @@ Steve blogs at <http://www.objectify.be> (which is also where this text was take
 
 ## Copyright ##
 This work is &copy; Steve Chaloner 2012 
+
+Next: [Introduction](02-introduction.markdown)
